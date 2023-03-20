@@ -12,7 +12,6 @@ sudo apt-get remove docker docker-engine docker.io containerd runc
 
 ## Repository beállítása
 
-1. Update the apt package index and install packages to allow apt to use a repository over HTTPS:
 
 > Rendszer frissítése
 
