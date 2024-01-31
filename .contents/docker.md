@@ -85,4 +85,28 @@ sudo docker run hello-world
 
 ---
 
+## superuser "megkerülése"
+
+> docker csoport létrehozása
+
+```
+sudo groupadd docker
+```
+
+> felhasználó hozzáadása a csoporthoz
+
+```
+sudo gpasswd -a $USER docker
+```
+
+> majd újraindítás
+
+> Innentől sudo nélkül is tudunk docker parancsokat adni
+
+```
+docker run hello-world
+```
+
+---
+
 [Raspberry menü](../README.md)
