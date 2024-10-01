@@ -6,7 +6,7 @@
 
 > Rendszer frissítése
 
-```
+```python
 sudo apt update
 ```
 
@@ -74,7 +74,7 @@ sudo smbpasswd -a username
 smb://ip-address
 ```
 
-### Ha nem tudsz kapcsolatot létesíteni és fájlokat megosztani:
+### Ha nem tudsz fájlokat megosztani:
 
 > hozzáadás az smb.conf >> [Global] részéhez:
 
