@@ -6,31 +6,31 @@
 
 > Rendszer frissítése
 
-```shell
+```sh
 sudo apt update
 ```
 
 > Telepítés
 
-```
+```sh
 sudo apt install samba
 ```
 
 > Ellenőrzés
 
-```
+```sh
 whereis samba
 ```
 
 > Eredmény:
 
-```
+```sh
 samba: /usr/sbin/samba /usr/lib/samba /etc/samba /usr/share/samba /usr/share/man/man7/samba.7.gz /usr/share/man/man8/samba.8.gz
 ```
 
 > Könyvtár létrehozás (ha még nincs)
 
-```
+```sh
 sudo mkdir /home/<username>/sambashare/
 ```
 
