@@ -2,6 +2,13 @@
 	<img src="../.pictures/samba_logo.png" alt="Samba logo" width="128"/>
 </h1>
 
+<!--
+Shell:      console, shell
+Bash:       bash, sh, zsh
+PowerShell: powershell, ps
+DOS:        dos, bat, cmd
+-->
+
 ---
 
 > Rendszer frissítése
