@@ -6,7 +6,7 @@
 
 > Rendszer frissítése
 
-```python
+```shell
 sudo apt update
 ```
 
