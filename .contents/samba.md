@@ -74,6 +74,15 @@ sudo smbpasswd -a username
 smb://ip-address
 ```
 
+### Ha nem tudsz kapcsolatot létesíteni és fájlokat megosztani:
+
+> hozzáadás az smb.conf >> [Global] részéhez:
+
+```
+server min protocol = NT1
+client min protocol = NT1
+```
+
 ---
 
 [Raspberry menü](../README.md)
