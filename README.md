@@ -7,4 +7,4 @@
 - [Samaba server telepítése](.contents/samba.md)
 - [Transmission telepítése](.contents/transmission.md)
 - [Docker telepítése](.contents/docker.md)
-- [VPN](.contents/vpn.md)
+- [OpenVPN](.contents/vpn.md)
